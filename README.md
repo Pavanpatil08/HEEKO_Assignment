@@ -66,3 +66,26 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Instructions
+
+1. Install the necessary dependencies.
+
+```
+npm install
+```
+
+2. To start the development server, execute the following command.
+
+```
+npm start
+```
+
+
+
+## Dependencies
+
+1. Boostrap
+```
+npm install --save bootstrap
+```
